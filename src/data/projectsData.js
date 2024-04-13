@@ -34,7 +34,7 @@ export const projectsData = [
     {
         id: 4,
         projectName: 'Chat Karo',
-        projectDesc: 'This project seeks to explore Forex Rates Data',
+        projectDesc: 'This project is a real-time chatting application built using flutter and firebase',
         tags: ['Dart', 'Flutter','Firebase', "Rest APIs"],
         code: 'https://github.com/sandeepmaddheshiya/Chat_Karo_v1.0',
         demo: 'https://github.com/sandeepmaddheshiya/Chat_Karo_v1.0',
