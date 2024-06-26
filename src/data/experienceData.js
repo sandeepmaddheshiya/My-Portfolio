@@ -8,17 +8,17 @@ export const experienceData = [
     },
     {
         id: 2,
-        company: 'TechnoHacks EduTech',
-        jobtitle: 'Java Developer Intern',
-        startYear: ' 2nd Sept',
-        endYear: '4th Oct 2023'
-    },
-    {
-        id: 1,
         company: 'Topperworld',
         jobtitle: 'APP Development Intern',
-        startYear: '5th Aug',
-        endYear: '5th Sept 2023'
+        startYear: ' 1st Aug',
+        endYear: '31st Jan 2024'
+    },
+    {
+        id: 3,
+        company: 'TechnoHacks EduTech',
+        jobtitle: 'Java Developer Intern',
+        startYear: '16th Aug',
+        endYear: '16th Sept 2023'
     },
     
     
