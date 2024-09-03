@@ -2,8 +2,18 @@ import amazonclone from '../assets/png/amazonclone.png'
 import believerarts from '../assets/png/believerarts.png'
 import chatkaro from '../assets/png/chatkaro.png'
 import resourcify from '../assets/png/resourcify.png'
+import skillfusion from '../assets/png/skillfusion.png'
 
 export const projectsData = [
+    {
+        id: 1,
+        projectName: 'SKillFusion ',
+        projectDesc: 'This is a Art Selling Website',
+        tags: ['React', 'Redux','SCSS', 'MongoDB','Cloudinary', 'Clerk'],
+        code: 'https://github.com/sandeepmaddheshiya/SkillFusion-v2',
+        demo: 'https://skillfusion.vercel.app/',
+        image: skillfusion
+    },
     {
         id: 1,
         projectName: 'Believer Arts',
